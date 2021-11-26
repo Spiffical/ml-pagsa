@@ -10,3 +10,6 @@ Software Plumbing - Introduction to Machine Learning
 [vcubingx NN visualization part II](https://youtu.be/-at7SLoVK_I)
 
 [NYU Deep Learning Course](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
+
+# Useful articles
+[Prevent overfitting](https://atcold.github.io/pytorch-Deep-Learning/en/week14/14-3/)
