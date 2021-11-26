@@ -17,4 +17,4 @@ Software Plumbing - Introduction to Machine Learning
 # Useful articles
 [Prevent overfitting](https://atcold.github.io/pytorch-Deep-Learning/en/week14/14-3/)
 
-[How is the objective function minimied/optimized? A comparison of various optimization algorithms]() https://medium.com/geekculture/a-2021-guide-to-improving-cnns-optimizers-adam-vs-sgd-495848ac6008
+[How is the objective function minimied/optimized? A comparison of various optimization algorithms](https://medium.com/geekculture/a-2021-guide-to-improving-cnns-optimizers-adam-vs-sgd-495848ac6008)
