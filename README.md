@@ -1,6 +1,8 @@
 # ml-pagsa
 Software Plumbing - Introduction to Machine Learning
 
+[Google slides](https://docs.google.com/presentation/d/1czCLQAz8WMdFmJqpD3Z01RLlnLWpwDF5WsLEdP_NwAs/edit?usp=sharing)
+
 
 # Useful videos
 
